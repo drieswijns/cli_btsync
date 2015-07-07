@@ -31,7 +31,7 @@ python cli_btsync.py start
 
 Remarks:
 ---------
-cli_btsync uses the old secrets instead of the new keys/link system.
-Once you use cli_btsync, you can no longer use the GUI.
-If you've used the GUI before, delete the .sync directory which is located in the same folder as the btsync executable. You will need to add all the shared folders again.
-Only tested on Ubuntu & Raspbian
+ - cli_btsync uses the old secrets instead of the new keys/link system.
+ - Once you use cli_btsync, you can no longer use the GUI.
+ - If you've used the GUI before, delete the .sync directory which is located in the same folder as the btsync executable. You will need to add all the shared folders again.
+ - Only tested on Ubuntu & Raspbian
