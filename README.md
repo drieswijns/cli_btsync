@@ -7,6 +7,10 @@ The main use for this packages is for usage with a remote ssh server, where the 
 Quickstart:
 
  - Download the btsync executable from the official website
+ - Install Click, a CLI library for python
+```
+pip install click
+```
  - Clone this repository
  - The use cli_btsync.py as follows
 
